@@ -1,3 +1,16 @@
+<a name="oben"></a>
+
+<div align="center">
+
+|[:skull:ISSUE](https://github.com/frankyhub/frisbee/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/frisbee/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/frisbee/wiki)||
+|--|--|--|--|
+| | | | |
+<a href="https://github.com/frankyhub/frisbee/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/frisbee)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/frisbee)|<a href="https://github.com/frankyhub/frisbee/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/frisbee)|<a href="https://github.com/frankyhub/frisbee/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/frisbee)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%20005-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/frisbee)| <a href="https://github.com/frankyhub/frisbee/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/frisbee/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
+</div>  
+
+
 # FRISBEE
 
 ## An easy controller for connecting ANY electronic waste finds
